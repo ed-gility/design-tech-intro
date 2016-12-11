@@ -1,1 +1,18 @@
 /* not yet needed */
+.jumbotron {
+  margin: 0px;
+}
+.page-header {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+hr {
+  margin: 0px;
+  padding: 0px;
+}
+.row div {
+  margin: 0px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
