@@ -11,10 +11,24 @@ hr {
   margin: 0px;
   padding: 0px;
 }
-.row div {
+div.container.tabs {
+  width: 100%;
   margin: 0px;
-  padding-top: 3px;
-  padding-bottom: 3px;
+  padding: 0px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #3399ff;
+}
+div.column {
+  padding: 15px;
+}
+div.row {
+  margin: 0px;
+  padding: 0px;
+}
+footer > hr {
+  margin-top: 10px;
 }
 footer {
   background-color: #ddd;
