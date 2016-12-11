@@ -25,7 +25,9 @@ div.column {
 }
 div.row {
   margin: 0px;
-  padding: 0px;
+  /*padding: 0px;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 footer > hr {
   margin-top: 10px;
