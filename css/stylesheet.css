@@ -1,1 +1,10 @@
 /* not yet needed */
+hr {
+  margin: 0px;
+  padding: 0px;
+}
+.row div {
+  margin: 0px;
+  padding: 3px;
+
+}
