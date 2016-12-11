@@ -16,3 +16,10 @@ hr {
   padding-top: 3px;
   padding-bottom: 3px;
 }
+footer {
+  background-color: #ddd;
+}
+footer > p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
