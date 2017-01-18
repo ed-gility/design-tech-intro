@@ -1,5 +1,7 @@
-# Intro to Engineering (Middle School Curriculum)
+# Intro to Engineering 
 
-Introduction to Designing with Technology
+*(Middle School Curriculum)*
+
+**Project based learning about technology and engineering** *(and communication)*
 
 Class website can be found at: [https://ed-gility.github.io/intro-design-tech-class/]
